@@ -15,7 +15,7 @@ public class Basicp {
     System.out.println("types of variable declaration & display it :");
     int Num = 5;
     float myFloatNum = 5.99f;
-    char l = 'D';
+    char li = 'D';
     boolean B = true;
     String myText = "Hello Simran";
     System.out.println(myText);// displayed by variable

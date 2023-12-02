@@ -1,4 +1,4 @@
-public class Main {
+public class encapsulatuion{
   public static void main(String[] args) {
     Person myObj = new Person();
     myObj.setName("John");
@@ -6,11 +6,11 @@ public class Main {
   }
 }
 
+/* here we will get an error because private/updated data cannot be accessed directly */
 
 
 
-
-   /** public class Person {
+    public class Person {
         private String name;
      
         // Getter
@@ -23,5 +23,3 @@ public class Main {
           this.name = newName;
         }
      }
-
-**/

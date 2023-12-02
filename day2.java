@@ -1,8 +1,8 @@
-
+public class day2{
     public static void main(String[] args)
 
     {
-        int x = 5;
+        int x = 5 ;
         x += 3; // x =3 ,x=5+3
 
         System.out.println(x);
@@ -39,7 +39,8 @@
         // 5 is not less than 4)
 
         int f = 5;
-        System.out.println(!(f > 3 && f < 10));
+        System.out.println(!(f > 3 && f < 10));}
+    }
         // returns false because ! (not) is used to reverse the result
 
     

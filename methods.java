@@ -18,7 +18,7 @@
   }
 }*/
 
-public class MethodExample {
+public class methods {
 
     // Method without parameters and return type
     static void sayHello() {

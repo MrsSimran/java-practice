@@ -15,8 +15,8 @@ public class Basicp {
     System.out.println("types of variable declaration & display it :");
     int Num = 5;
     float myFloatNum = 5.99f;
-    char li = 'D';
-    boolean B = true;
+    //char li = 'D';
+    //boolean B = true;
     String myText = "Hello Simran";
     System.out.println(myText);// displayed by variable
     System.out.println(Num + myFloatNum);// displayed by adding two variable
@@ -25,7 +25,7 @@ public class Basicp {
     double myDouble = myInt; // Automatic casting: int to double
     System.out.println(myDouble);
 
-    double MyDouble = 9.78d;
+    //double MyDouble = 9.78d;
     int MyInt = (int) myDouble; // Manual casting: double to int
     System.out.println(MyInt);
   }

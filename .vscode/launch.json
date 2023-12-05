@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Basicp",
+            "request": "launch",
+            "mainClass": "Basicp",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
+            "name": "BouncingBallApp",
+            "request": "launch",
+            "mainClass": "BouncingBallApp",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
+            "name": "d3string",
+            "request": "launch",
+            "mainClass": "d3string",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
+            "name": "day2",
+            "request": "launch",
+            "mainClass": "day2",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
+            "name": "encapsulatuion",
+            "request": "launch",
+            "mainClass": "encapsulatuion",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "methods",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
+            "name": "oop",
+            "request": "launch",
+            "mainClass": "oop",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
+            "name": "packages",
+            "request": "launch",
+            "mainClass": "packages",
+            "projectName": "java practice_13a5e817",
+            "vmArgs": "--module-path\"C:/Program Files/Java/javafx-sdk-21.0.1/lib\"--add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

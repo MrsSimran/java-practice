@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ApiTestingExample",
+            "request": "launch",
+            "mainClass": "ApiTestingExample",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

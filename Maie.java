@@ -1,4 +1,4 @@
-public class Main {
+public class Maie {
   public static void main(String[] args) {
     int i = 0;
     while (i < 10) {

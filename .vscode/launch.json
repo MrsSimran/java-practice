@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "packages",
+            "request": "launch",
+            "mainClass": "packages",
+            "projectName": "java practice_51da10a3"
+        },
+        {
+            "type": "java",
+            "name": "GuessingGame",
+            "request": "launch",
+            "mainClass": "GuessingGame",
+            "projectName": "java practice_13a5e817"
+        },
+        {
+            "type": "java",
             "name": "recursion",
             "request": "launch",
             "mainClass": "recursion",
